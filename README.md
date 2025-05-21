@@ -1,0 +1,1 @@
+# configurando_subplosts_analise_vendas_lojas_2022
