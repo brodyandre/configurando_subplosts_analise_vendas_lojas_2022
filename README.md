@@ -8,6 +8,9 @@
 * Deixar as linhas com a espessura maior.
 * Alterar a cor das linhas de cada loja para diferenciá-las ainda mais.
 
+  ![Gráfico de Vendas por Loja 2022](./vendas_por_loja_2022.png)
+
+
 # 📊 Análise Interativa de Vendas por Loja - 2022
 
 ![Banner](https://img.shields.io/badge/Status-Completo-green) ![Python](https://img.shields.io/badge/Python-3.7%2B-blue) ![Google Colab](https://img.shields.io/badge/Google_Colab-Suportado-orange) ![License](https://img.shields.io/badge/License-MIT-green)
